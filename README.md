@@ -23,3 +23,6 @@ in body section there's input field which accepts the track_name and accordingly
 **recommendation.py**
 
 recommmendation.py is the gateway between song_flet.py and similarity.py
+
+![Capture](https://user-images.githubusercontent.com/80568232/233715540-b17df4b5-b55a-420c-80e1-def9375b71ee.JPG)
+
