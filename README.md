@@ -1,4 +1,12 @@
 # Song-recommendations-System
+*Run Script* = 
+*flet -r song_flet.py*
+
+download packages
+1) flet = pip install flet
+2) pandas = pip install pandas
+3) sklearn = pip install scikit-learn
+
 
 **Similarity.py**
 
