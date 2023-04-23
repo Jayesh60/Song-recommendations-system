@@ -26,3 +26,4 @@ recommmendation.py is the gateway between song_flet.py and similarity.py
 
 ![Capture](https://user-images.githubusercontent.com/80568232/233715540-b17df4b5-b55a-420c-80e1-def9375b71ee.JPG)
 
+![Capture2](https://user-images.githubusercontent.com/80568232/233823487-48e2889f-ca66-4b14-bf38-34a6a4dba31d.JPG)
