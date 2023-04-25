@@ -7,7 +7,7 @@
     "run": "flet -r song_flet.py"
   },
   "dependencies": {
-    "flet" : "0.4.2"
+    "flet" : "0.5.2"
   },
   "author": "",
   "license": "ISC"
