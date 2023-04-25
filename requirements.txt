@@ -1,1 +1,5 @@
 flet==0.4.2
+pandas
+numpy
+scikit-learn
+nltk
